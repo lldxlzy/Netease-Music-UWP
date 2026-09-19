@@ -8,3 +8,4 @@
 这个仓库并不支持，也不建议任何用户进行破解灰色歌曲（无版权歌曲）或破解VIP限制。如果你真心想不花一分钱去听歌，你可以去Spotify（国内仍未获取运营证）那边。
 
 本仓库所有的API都来自正规渠道（如公开网络搜索等）。
+使用本仓库，则代表您您同意 [网易云音乐服务条款](https://st.music.163.com/official-terms/service) 以及 [网易云音乐隐私政策](https://st.music.163.com/official-terms/privacy)。
